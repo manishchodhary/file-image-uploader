@@ -17,4 +17,4 @@ A full-stack file and image uploader application built with Node.js, Express, an
 ### Backend
 - Node.js
 - Express.js
-- Multer
+
